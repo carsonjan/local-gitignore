@@ -2,7 +2,8 @@
 one-liner to create .gitignore.local, stacks on .gitignore, no extra config needed
 
 ## Usage
-> [!NOTE] First `cd` into your project directory where .git locate
+> [!NOTE]
+> First `cd` into your project directory where `.git` locate
 
 ```bash
 wget https://raw.githubusercontent.com/carsonjan/local-gitignore/main/create_local_gitignore.sh && \
